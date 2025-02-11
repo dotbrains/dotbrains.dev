@@ -29,7 +29,7 @@ bun install
 Second, create a `.env` file in the root directory and add the following environment variables:
 
 ```env
-GITHUB_TOKEN=your totken
+GITHUB_TOKEN=your token
 ```
 
 You can create a personal access token on GitHub by following [these instructions](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token).
