@@ -17,12 +17,12 @@ export function Header(): React.JSX.Element {
       <a className="flex items-center justify-center" href="/">
         <Image
           src={Logo}
-          alt="DotBrains Logo"
+          alt="smeltery Logo"
           width={50}
           height={50}
           className="mr-2 rounded-full"
         />
-        <span className="text-2xl font-bold text-[#0B4654]">DotBrains</span>
+        <span className="text-2xl font-bold text-[#0B4654]">smeltery</span>
       </a>
       <nav className="ml-auto hidden md:flex gap-4 sm:gap-6">
         {["About", "Mission", "Featured Projects", "Projects"].map((section) => (

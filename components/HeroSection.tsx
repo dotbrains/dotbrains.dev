@@ -28,7 +28,7 @@ export function HeroSection(): React.JSX.Element {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.8 }}
           >
-            DotBrains is a collective dedicated to the craft of software engineering, driven by a mission to
+            smeltery is a collective dedicated to the craft of software engineering, driven by a mission to
             enhance lives and solve complex problems through innovative technology.
           </motion.p>
           <motion.div
@@ -38,13 +38,13 @@ export function HeroSection(): React.JSX.Element {
             transition={{ delay: 0.6, duration: 0.8 }}
           >
             <Link
-				href="https://github.com/orgs/dotbrains/repositories"
+				href="https://github.com/orgs/smeltery/repositories"
 				className="bg-[#78DA7D] text-white hover:bg-[#0B4654] text-lg px-8 py-3 rounded-full transition-all duration-300 transform hover:scale-105"
 			>
               We are Open Source
             </Link>
             <Link
-			  href="https://github.com/dotbrains"
+			  href="https://github.com/smeltery"
               variant="outline"
               className="border-[#0B4654] text-[#0B4654] hover:bg-[#0B4654] hover:text-white text-lg px-8 py-3 rounded-full transition-all duration-300 transform hover:scale-105"
             >

@@ -10,7 +10,7 @@ interface Repo {
 }
 
 export async function GET() {
-	const GITHUB_USERNAME = 'dotbrains';
+	const GITHUB_USERNAME = 'smeltery';
 	const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 	// Check if the GitHub token is provided

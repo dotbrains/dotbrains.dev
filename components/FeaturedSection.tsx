@@ -43,7 +43,7 @@ export function FeaturedSection(): React.JSX.Element {
         { icon: <Terminal className="w-7 h-7 mr-5 text-[#78DA7D]" />, title: "set-me-up installer", description: "A universal installer script for Mac or Debian-based machines" },
         { icon: <Package className="w-7 h-7 mr-5 text-[#78DA7D]" />, title: "set-me-up Universal Modules", description: "A framework for setting up diverse development environments" }
       ],
-      url: "https://github.com/dotbrains/set-me-up-docs"
+      url: "https://github.com/smeltery/set-me-up-docs"
     },
     {
         name: "Guardrails",
@@ -58,7 +58,7 @@ export function FeaturedSection(): React.JSX.Element {
           { icon: <Zap className="w-7 h-7 mr-5 text-[#78DA7D]" />, title: "Contrast Security", description: "Interactive Application Security Testing (IAST) for runtime vulnerability detection" },
           { icon: <Search className="w-7 h-7 mr-5 text-[#78DA7D]" />, title: "Detect Secrets", description: "Automated scanning for accidental secret exposure in your codebase" }
         ],
-        url: "https://github.com/dotbrains/guardrails"
+        url: "https://github.com/smeltery/guardrails"
       }
   ];
 

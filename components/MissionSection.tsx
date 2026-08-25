@@ -46,7 +46,7 @@ export function MissionSection(): JSX.Element {
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold tracking-tighter sm:text-5xl mb-4">Our Mission</h2>
           <p className="text-xl text-[#D8EAEC] max-w-[800px] mx-auto">
-            At DotBrains, our mission is to make the lives of developers easier by providing tools and resources that
+            At smeltery, our mission is to make the lives of developers easier by providing tools and resources that
             simplify developer operations and enhance productivity.
           </p>
         </div>

@@ -1,5 +1,5 @@
 
-# dotbrains.dev
+# smeltery.dev
 
 [![License: PolyForm Shield 1.0.0](https://img.shields.io/badge/License-PolyForm%20Shield%201.0.0-blue.svg)](https://polyformproject.org/licenses/shield/1.0.0/)
 
@@ -8,7 +8,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0081C9?style=flat-square&logo=framer&logoColor=white)
 
-The official website of [dotbrains](https://dotbrains.dev) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
+The official website of [smeltery](https://smeltery.dev) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
 ![preview](assets/preview.png)
 
